@@ -52,7 +52,8 @@ nav ul{
     border-radius: 12px;
     padding: 35px;
     background-image: url('a1.jpg');
-    background-size: 103%;
+    background-size: cover;
+    background-repeat: no-repeat;
 
 }
 .bottom{
@@ -117,6 +118,8 @@ nav ul{
     left: 10vw;
     font-family: 'Bricolage Grotesque', sans-serif;
     margin-top: 1%;
+    white-space: normal;
+    width: auto;
 
 }
 .songInfo img{
